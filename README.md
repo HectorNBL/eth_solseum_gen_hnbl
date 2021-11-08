@@ -1,4 +1,6 @@
-# Solseum NFT Generator for Solana!
+# Solseum NFT Generator Ethereum
+
+I have edited this repository to be used to generate NFTs for ethereum. Below is the original readme file with the instrucitons on how to use it.
 
 ## [Check this guide here!](https://hackmd.io/@Solseum/HJEfeFDNt)
 
