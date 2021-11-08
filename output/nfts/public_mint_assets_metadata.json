@@ -1,0 +1,72 @@
+[
+    {
+        "name": "NFT name #1",
+        "description": "NFT description",
+        "image": "image.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Border color",
+                "value": "Cyan border"
+            },
+            {
+                "trait_type": "Border dots",
+                "value": "Emerald dots"
+            },
+            {
+                "trait_type": "Example text",
+                "value": "Example 5"
+            },
+            {
+                "trait_type": "Simple draw",
+                "value": "Fish"
+            },
+            {
+                "trait_type": "Watermark",
+                "value": "Down left"
+            },
+            {
+                "trait_type": "Border mark",
+                "value": "Nothing"
+            }
+        ]
+    },
+    {
+        "name": "NFT name #2",
+        "description": "NFT description",
+        "image": "image.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Border color",
+                "value": "Cyan border"
+            },
+            {
+                "trait_type": "Border dots",
+                "value": "Magenta dots"
+            },
+            {
+                "trait_type": "Example text",
+                "value": "Example 6"
+            },
+            {
+                "trait_type": "Simple draw",
+                "value": "Flower"
+            },
+            {
+                "trait_type": "Watermark",
+                "value": "Down middle"
+            },
+            {
+                "trait_type": "Border mark",
+                "value": "Nothing"
+            }
+        ]
+    }
+]

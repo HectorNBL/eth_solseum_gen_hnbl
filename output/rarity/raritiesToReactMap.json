@@ -5,7 +5,7 @@
             {
                 "name": "Cyan",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -14,7 +14,7 @@
             {
                 "name": "Yellow",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -23,7 +23,7 @@
             {
                 "name": "Green",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -32,7 +32,7 @@
             {
                 "name": "Purple",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -40,9 +40,9 @@
             },
             {
                 "name": "Orange",
-                "stock": 3,
-                "total": 3,
-                "percentage": 99.9999,
+                "stock": 2,
+                "total": 2,
+                "percentage": 100.0,
                 "rarity": "Common",
                 "color": "#a0a0a0",
                 "path": "assets/0-background/78-orange.png"
@@ -55,7 +55,7 @@
             {
                 "name": "Orange border",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -64,7 +64,7 @@
             {
                 "name": "Green border",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -73,7 +73,7 @@
             {
                 "name": "Purple border",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -82,7 +82,7 @@
             {
                 "name": "Yellow border",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -90,9 +90,9 @@
             },
             {
                 "name": "Cyan border",
-                "stock": 3,
-                "total": 3,
-                "percentage": 99.9999,
+                "stock": 2,
+                "total": 2,
+                "percentage": 100.0,
                 "rarity": "Common",
                 "color": "#a0a0a0",
                 "path": "assets/1-Border_color/78-cyan_border.png"
@@ -105,7 +105,7 @@
             {
                 "name": "Pink dots",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -114,7 +114,7 @@
             {
                 "name": "Dark purple dots",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -123,7 +123,7 @@
             {
                 "name": "Dark green dots",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -132,7 +132,7 @@
             {
                 "name": "Dark blue dots",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -141,7 +141,7 @@
             {
                 "name": "Black dots",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -149,38 +149,38 @@
             },
             {
                 "name": "Magenta dots",
-                "stock": 0,
-                "total": 3,
-                "percentage": 0,
-                "rarity": "Not created",
-                "color": "#000000",
+                "stock": 1,
+                "total": 2,
+                "percentage": 50.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
                 "path": "assets/2-border_dots/10-magenta_dots.png"
             },
             {
                 "name": "Brown dots",
-                "stock": 1,
-                "total": 3,
-                "percentage": 33.3333,
-                "rarity": "Common",
-                "color": "#a0a0a0",
+                "stock": 0,
+                "total": 2,
+                "percentage": 0,
+                "rarity": "Not created",
+                "color": "#000000",
                 "path": "assets/2-border_dots/14-brown_dots.png"
             },
             {
                 "name": "Emerald dots",
-                "stock": 0,
-                "total": 3,
-                "percentage": 0,
-                "rarity": "Not created",
-                "color": "#000000",
+                "stock": 1,
+                "total": 2,
+                "percentage": 50.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
                 "path": "assets/2-border_dots/20-emerald_dots.png"
             },
             {
                 "name": "Nothing",
-                "stock": 2,
-                "total": 3,
-                "percentage": 66.6666,
-                "rarity": "Common",
-                "color": "#a0a0a0",
+                "stock": 0,
+                "total": 2,
+                "percentage": 0,
+                "rarity": "Not created",
+                "color": "#000000",
                 "path": "assets/2-border_dots/35-nothing.png"
             }
         ]
@@ -191,7 +191,7 @@
             {
                 "name": "Example 1",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -200,7 +200,7 @@
             {
                 "name": "Example 2",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -209,7 +209,7 @@
             {
                 "name": "Example 3",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -218,7 +218,7 @@
             {
                 "name": "Example 4",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -226,18 +226,18 @@
             },
             {
                 "name": "Example 5",
-                "stock": 0,
-                "total": 3,
-                "percentage": 0,
-                "rarity": "Not created",
-                "color": "#000000",
+                "stock": 1,
+                "total": 2,
+                "percentage": 50.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
                 "path": "assets/3-example_text/5-example_5.png"
             },
             {
                 "name": "Example 6",
-                "stock": 3,
-                "total": 3,
-                "percentage": 99.9999,
+                "stock": 1,
+                "total": 2,
+                "percentage": 50.0,
                 "rarity": "Common",
                 "color": "#a0a0a0",
                 "path": "assets/3-example_text/85-example_6.png"
@@ -250,7 +250,7 @@
             {
                 "name": "Crown",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -259,7 +259,7 @@
             {
                 "name": "Swan",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -268,7 +268,7 @@
             {
                 "name": "Paw",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -277,7 +277,7 @@
             {
                 "name": "Balloon",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -286,8 +286,8 @@
             {
                 "name": "Flower",
                 "stock": 1,
-                "total": 3,
-                "percentage": 33.3333,
+                "total": 2,
+                "percentage": 50.0,
                 "rarity": "Common",
                 "color": "#a0a0a0",
                 "path": "assets/4-simple_draw/10-flower.png"
@@ -295,19 +295,19 @@
             {
                 "name": "Fish",
                 "stock": 1,
-                "total": 3,
-                "percentage": 33.3333,
+                "total": 2,
+                "percentage": 50.0,
                 "rarity": "Common",
                 "color": "#a0a0a0",
                 "path": "assets/4-simple_draw/14-fish.png"
             },
             {
                 "name": "Nothing",
-                "stock": 1,
-                "total": 3,
-                "percentage": 33.3333,
-                "rarity": "Common",
-                "color": "#a0a0a0",
+                "stock": 0,
+                "total": 2,
+                "percentage": 0,
+                "rarity": "Not created",
+                "color": "#000000",
                 "path": "assets/4-simple_draw/61-Nothing.png"
             }
         ]
@@ -318,7 +318,7 @@
             {
                 "name": "Top middle",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -327,7 +327,7 @@
             {
                 "name": "Middle left",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -335,17 +335,17 @@
             },
             {
                 "name": "Down left",
-                "stock": 0,
-                "total": 3,
-                "percentage": 0,
-                "rarity": "Not created",
-                "color": "#000000",
+                "stock": 1,
+                "total": 2,
+                "percentage": 50.0,
+                "rarity": "Common",
+                "color": "#a0a0a0",
                 "path": "assets/5-watermark/6-down_left.png"
             },
             {
                 "name": "Middle right",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -353,18 +353,18 @@
             },
             {
                 "name": "Top right",
-                "stock": 1,
-                "total": 3,
-                "percentage": 33.3333,
-                "rarity": "Common",
-                "color": "#a0a0a0",
+                "stock": 0,
+                "total": 2,
+                "percentage": 0,
+                "rarity": "Not created",
+                "color": "#000000",
                 "path": "assets/5-watermark/30-top_right.png"
             },
             {
                 "name": "Down middle",
-                "stock": 2,
-                "total": 3,
-                "percentage": 66.6666,
+                "stock": 1,
+                "total": 2,
+                "percentage": 50.0,
                 "rarity": "Common",
                 "color": "#a0a0a0",
                 "path": "assets/5-watermark/48-down_middle.png"
@@ -377,7 +377,7 @@
             {
                 "name": "1 left side",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -386,7 +386,7 @@
             {
                 "name": "2 right side",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -395,7 +395,7 @@
             {
                 "name": "1 both sides",
                 "stock": 0,
-                "total": 3,
+                "total": 2,
                 "percentage": 0,
                 "rarity": "Not created",
                 "color": "#000000",
@@ -403,18 +403,18 @@
             },
             {
                 "name": "2 both sides",
-                "stock": 1,
-                "total": 3,
-                "percentage": 33.3333,
-                "rarity": "Common",
-                "color": "#a0a0a0",
+                "stock": 0,
+                "total": 2,
+                "percentage": 0,
+                "rarity": "Not created",
+                "color": "#000000",
                 "path": "assets/6-border_mark/14-2_both_sides.png"
             },
             {
                 "name": "Nothing",
                 "stock": 2,
-                "total": 3,
-                "percentage": 66.6666,
+                "total": 2,
+                "percentage": 100.0,
                 "rarity": "Common",
                 "color": "#a0a0a0",
                 "path": "assets/6-border_mark/74-nothing.png"
